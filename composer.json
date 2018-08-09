@@ -1,0 +1,17 @@
+{
+    "name": "vyalov.alexander/strategy",
+    "description": "Realisation of strategy pattern",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vyalov Alexander",
+            "email": "vyalov.alexander@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "VyalovAlexander\\Strategy\\" : "src/"
+        }
+    }
+}
